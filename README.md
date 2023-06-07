@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wildbeast321
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning npm.
-- 💞️ I’m looking to collaborate on various internships pertaining web development
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on various internships pertaining Data Science
 - 📫 How to reach me anirudhacharya2001@gmail.com
 
 <!---
